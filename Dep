@@ -1,0 +1,49 @@
+<!-- index.html --><!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>19 Days of Love</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>❤️ 19 Days of Us ❤️</h1>
+  <div class="calendar">
+    <a href="days/01.html">Feb 1</a>
+    <a href="days/02.html">Feb 2</a>
+    <a href="days/03.html">Feb 3</a>
+    <a href="days/04.html">Feb 4</a>
+    <a href="days/05.html">Feb 5</a>
+    <a href="days/06.html">Feb 6</a>
+    <a href="days/07.html">Feb 7</a>
+    <a href="days/08.html">Feb 8</a>
+    <a href="days/09.html">Feb 9</a>
+    <a href="days/10.html">Feb 10</a>
+    <a href="days/11.html">Feb 11</a>
+    <a href="days/12.html">Feb 12</a>
+    <a href="days/13.html">Feb 13</a>
+    <a href="days/14.html">Feb 14</a>
+    <a href="days/15.html">Feb 15</a>
+    <a href="days/16.html">Feb 16</a>
+    <a href="days/17.html">Feb 17</a>
+    <a href="days/18.html">Feb 18</a>
+    <a href="days/19.html">Feb 19 🎂</a>
+  </div>
+</body>
+</html><!-- style.css -->body { font-family: 'Poppins', sans-serif; background: linear-gradient(to bottom right, #ffe6f0, #fff); text-align: center; padding: 40px; margin: 0; }
+
+h1 { color: #d6336c; }
+
+.calendar { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; max-width: 600px; margin: auto; }
+
+a { background: #ffb6c1; padding: 15px; text-decoration: none; border-radius: 10px; color: white; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: 0.3s; }
+
+a:hover { background: #ff69b4; transform: scale(1.05); }
+
+<!-- day pages (template) --><!-- Example: days/01.html --><!-- Repeat this structure for days/02.html to days/19.html with updated paragraphs --><!-- days/01.html --><!DOCTYPE html><html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Feb 1</title><link rel="stylesheet" href="../style.css"></head>
+<body>
+<h2>February 1</h2>
+<img src="../assets/images/feb1-1.jpg" alt="Photo 1" width="300">
+<img src="../assets/images/feb1-2.jpg" alt="Photo 2" width="300">
+<p>This is the first day of our 19-day journey, and I want to start by saying thank you — for existing, for smiling the way you do, and for making my world better just by being in it.</p><br><a href="../index.html">← Back</a>
+</body></html><!-- days/02.html --><!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Feb 2</title><link rel="stylesheet" href="../style.css"></head><body><h2>February 2</h2><img src="../assets/images/feb2-1.jpg" width="300"><img src="../assets/images/feb2-2.jpg" width="300"><p>Every day with you feels like poetry — soft, beautiful, and full of emotions I never thought I could feel. You make the ordinary feel extraordinary.</p><br><a href="../index.html">← Back</a></body></html><!-- Repeat for other days with appropriate date, image paths, and the following paragraphs: --><!-- Feb 3 --><p>Your laughter is my favorite sound. I could listen to it on repeat forever, like my favorite song that never gets old.</p><!-- Feb 4 --><p>You’re more than just my girlfriend — you’re my peace, my chaos, my moonlight, and my sunshine. You’re every emotion in its purest form.</p><!-- Feb 5 --><p>I’ve seen sunsets, stars, oceans, and mountains — but none compare to the way you look at me with love in your eyes.</p><!-- Feb 6 --><p>You make me believe in the kind of love that’s written in books and sung in songs — gentle, passionate, and forever.</p><!-- Feb 7 --><p>Even in silence, you make me feel heard. Even in chaos, you make me feel calm. You’re magic in human form.</p><!-- Feb 8 --><p>There’s not a single version of the future I want to see without you in it. With you, forever doesn’t feel long enough.</p><!-- Feb 9 --><p>When you smile, it’s like the world slows down for a second to admire something truly beautiful. And I get to call you mine.</p><!-- Feb 10 --><p>You’re the reason I believe in soulmates. There’s no way someone like you happened to walk into my life by accident.</p><!-- Feb 11 --><p>Sometimes I look at you and wonder how the universe got so generous to place you beside me. You’re my rarest blessing.</p><!-- Feb 12 --><p>You’re my calm after a long day. My excitement in the morning. My middle-of-the-night comfort. You’re everything good in this world.</p><!-- Feb 13 --><p>If I could, I’d write your name in the stars every night just so you remember how much you mean to me. You deserve galaxies.</p><!-- Feb 14 --><p>Happy Valentine’s Day, my love. Loving you is the easiest thing I’ve ever done, and celebrating you is my life’s favorite part.</p><!-- Feb 15 --><p>You’re not just in my heart — you’re part of its rhythm. Every beat I feel is a reminder of how deeply you’ve become my home.</p><!-- Feb 16 --><p>I fall in love with you in new ways every day — in the way you talk, laugh, care, and even get mad. You’re imperfectly perfect.</p><!-- Feb 17 --><p>No matter what the future holds, I want to face it with you — hand in hand, side by side, with love as our forever weapon.</p><!-- Feb 18 --><p>We’re one day away from your birthday, but you’ve been a gift to me every day since I met you. You make life worth living.</p><!-- Feb 19 --><p>Happy Birthday, my queen. You are the reason behind my smiles, my strength, and my belief in true love. May today be as stunning as your soul. I’ll spend my whole life loving you — and that still won’t feel like enough. 💗</p>
